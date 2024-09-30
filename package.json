@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0074kchfs",
+  "description": "https://v2.scrimba.com/s01uaas/s0074kchfs",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
